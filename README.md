@@ -1,1 +1,2 @@
-# class-38-speedRacer
+# C38RV_SpeedRacer_TeacherActivity
+Teacher Activity
